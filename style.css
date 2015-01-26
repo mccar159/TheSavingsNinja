@@ -20,6 +20,17 @@ max-width:978px;
 margin:0 auto;
 }
 
+.featured {
+    min-height:100px;
+    background-color:#333333;
+}
+
+.others {
+    min-height:100px;
+    background-color:#ffffff;
+}
+}
+
 /* NAVIGATION */
 .main-nav ul {
     list-style-type: none;
