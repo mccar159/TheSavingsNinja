@@ -15,6 +15,12 @@ text-shadow:0 1px 3px rgba(0,0,0,0.5);
 margin:0;
 }
 
+header, section, footer {
+float: left;
+width: 100%;
+clear: both;
+}
+
 .wrap .grid, .grid.wrap {
 max-width:978px;
 margin:0 auto;
